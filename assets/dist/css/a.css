@@ -1,0 +1,38 @@
+body {
+	overflow-y: hidden; /* Sembunyikan vertical scrollbar */
+	overflow-x: hidden; /* Sembunyikan horizontal scrollbar */
+}
+
+.tengah {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 160px;
+}
+
+.right {
+	float: right;
+}
+
+.garis {
+	border-left: 1px black solid;
+	height: 1px;
+	width: 100px;
+}
+
+.butt {
+	margin-top: 2px;
+	margin-bottom: 4px;
+}
+
+.note-editor .dropdown-toggle::after {
+	all: unset;
+}
+
+.note-editor .drop-down-menu {
+	box-sizing: content-box;
+}
+
+.note-editor .note.modal-footer {
+	box-sizing: content-box;
+}
