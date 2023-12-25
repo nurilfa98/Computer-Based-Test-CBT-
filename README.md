@@ -1,2 +1,2 @@
 # Computer-Based-Test
-Aplikasi Computer Based Test ini digunakan untuk ujian online. ada pun didalamnya ada tiga user yaitu admin, guru, dan murid.
+Aplikasi Computer-Based Test (CBT) adalah perangkat lunak yang dirancang untuk menyelenggarakan ujian atau tes menggunakan komputer. 
